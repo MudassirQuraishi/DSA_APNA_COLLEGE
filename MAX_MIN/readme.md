@@ -18,19 +18,21 @@ This folder contains a Java program to efficiently find the maximum and minimum 
 
 ```
 Input: arr[] = {3, 5, 4, 1, 9}
-Output: Minimum element is: 1
-Maximum element is: 9
-
+```
+```
 Input: arr[] = {22, 14, 8, 17, 35, 3}
-Output: Minimum element is: 3
-Maximum element is: 35
+
 ```
 
 ### Output:
 
 ```
-Minimum element is 1
-Maximum element is 3000
+Minimum element is: 1
+Maximum element is: 9
+```
+```
+Minimum element is: 3
+Maximum element is: 35
 ```
 
 ### Complexity Analysis:
